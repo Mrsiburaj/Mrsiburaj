@@ -3,13 +3,13 @@
 
 
 <div id="badges">
-  <a href="https://www.linkedin.com/in/rohit-dumka-337362175/">
+  <a href="https://www.linkedin.com/in/mrsiburaj">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://stackoverflow.com/users/17722402/walking-dead">
     <img src="https://img.shields.io/badge/Stackoverflow-lime?style=for-the-badge&logo=Stackoverflow&logoColor=white" alt="Stackoverflow Badge"/>
   </a>
-  <a href="torohitdumka1@gmail.com">
+  <a href="siburaj7@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
 </div>
