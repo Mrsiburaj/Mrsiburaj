@@ -8,7 +8,7 @@ x<h2 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/g
   <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/256/external-net-or-dot-net-a-software-framework-developed-by-microsoft-logo-color-tal-revivo.png" alt="C#" width="50" height="50"/>
   <img src="https://img.icons8.com/fluency/256/visual-basic.png" alt="Visual Basics" width="50" height="50"/>  
   <img src="https://www.asphostcentral.com/Images/logo_aspmvc345.png" alt="MVC" width="70" height="50"/>
-  <img src="https://florencefennel.co.in/image/cache/catalog/florencefennel/react%20js-1000x1000.jpg" alt="ReactJs" width="50" height="50"/>
+
   
   
  
@@ -16,7 +16,7 @@ x<h2 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/g
   
   
 </p>
-<p  align="right"><img src="https://visitor-badge.laobi.icu/badge?page_id=Yash-srivastav16" alt="visitor badge"/></p>
+
 <h2> 📈 &nbsp;My GitHub History!</h2>
 
 <p align="left">
